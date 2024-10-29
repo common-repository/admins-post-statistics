@@ -1,0 +1,35 @@
+
+
+
+#goleft{
+	display: inline-block;
+	float: right;
+	width: 45%;
+	
+	
+}
+
+
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	
+	color:#333333;
+	text-align: center;
+	
+}
+td#name  {
+	font-size:14px;
+	text-align: center;
+	background-color: #dedede;
+	vertical-align:top;
+}
+table.gridtable td {
+	font-size:11px;
+	 height: 1px;
+	 text-align: center;
+	 border-bottom: 1px solid #dedede;
+
+	padding: 7px;
+	
+	background-color: #ffffff;
+}
